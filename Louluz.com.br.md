@@ -135,6 +135,45 @@
 </ul>
 <p><img src="https://i.imgur.com/VFytMfd.png" alt="enter image description here"></p>
 </li>
+<li>
+<p>Adição de Title, Alt, mudança do nome dos arquivos de imagem e adição <code>&lt;figure&gt;</code> e <code>&lt;figcaption&gt;</code> nas imagens</p>
+<ul>
+<li>Esses elementos tornam as imagens mais acessíveis à leitores de tela e ferramentas de assistência</li>
+<li>Fazem com que suas imagens se tornem mais relevantes na busca do google imagens</li>
+<li>Melhoram navegação e entendimento do documento para todo tipo de usuário.</li>
+</ul>
+</li>
+<li>
+<p>Compressão e Otimização das imagens</p>
+<ul>
+<li>Esse tipo de técnica pode diminuir o tamanho de uma imagem em até 80%, fazendo o carregamento do site ser mais rápido, gastando menos espaço em servidor e melhorando os custos e escalabilidade dos serviços. Exemplo:</li>
+</ul>
+</li>
+</ul>
+<p><img src="https://i.imgur.com/PH61ZwR.png" alt="enter image description here"></p>
+<ul>
+<li>Atualização da Infraestrutura e linguagens de servidor
+<ul>
+<li>Atualizando as versões das linguagens que se comunicam com servidores e bancos de dados, podemos aumentar a performance das consultas de produto e a capacidade para acessos e consultas simultâneas. Abaixo um comparativo de velocidades entre duas versões diferentes do PHP como exemplo:</li>
+</ul>
+</li>
+</ul>
+<p><img src="https://i.imgur.com/29cMBSI.png" alt="enter image description here"></p>
+<p>Podemos notar um aumento razoável na performance e capacidade de acessos/consultas simultâneas.</p>
+<ul>
+<li>
+<p>Melhora na <a href="https://shiftmind.com.br/seo/linkagem-interna-para-seo-por-que-e-como/">Linkagem Interna</a></p>
+<ul>
+<li>O Google usa links para descobrir a qual conteúdo o seu site está relacionado e qual é o valor desse conteúdo.</li>
+<li>Com uma estrutura de Linkagem e URL’s planejadas, seus resultados de busca irão melhorar exponencialmente.</li>
+</ul>
+</li>
+<li>
+<p>Preparação para escalabilidade</p>
+<ul>
+<li>Nunca se sabe qual será o futuro do seu negócio ou aplicação, por isso uma das principais preocupações dos desenvolvedores é a Escalabilidade, que denota o quanto um produto pode crescer sem ter que ser reescrito. Utilizando tecnologias modernas e adaptáveis, além de servidores de ponta, podemos comportar um crescimento exponencial de clientela e necessidades sem ter que chegar ao ponto de um novo gasto excessivo com desenvolvimento de uma nova aplicação do zero.</li>
+</ul>
+</li>
 </ul>
 </div>
 </body>
